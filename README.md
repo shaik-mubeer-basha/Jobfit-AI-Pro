@@ -1,6 +1,7 @@
 📌 JobFit AI Pro
 🚀 An AI-powered Resume Analyzer that evaluates job readiness, extracts skills, predicts suitable job roles, and recommends personalized learning courses with visual skill analytics.
 ✨ Features
+
 📄 Upload resume (PDF)
 🧠 Extracts skills automatically
 📊 Calculates Job Fit Score
